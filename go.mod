@@ -54,4 +54,5 @@ require (
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.14.0 // indirect
 )
+
 replace go.universe.tf/netboot v0.0.0-20230916172012-64f6de6d0e3b => github.com/hassejohansen/netboot v1.21.2
