@@ -15,7 +15,7 @@ require (
 	github.com/urfave/cli/v2 v2.27.2
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
 	golang.org/x/mod v0.13.0
-	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
+	gopkg.in/yaml.v3 v3.0.1
 	gopkg.in/yaml.v3 v3.0.1
 )
 
