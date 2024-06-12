@@ -11,10 +11,10 @@ require (
 	github.com/otiai10/copy v1.10.0
 	github.com/rs/zerolog v1.30.0
 	github.com/spectrocloud-labs/herd v0.4.2
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli v1.22.15
 	github.com/urfave/cli/v2 v2.27.2
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
-	golang.org/x/mod v0.17.0
+	golang.org/x/mod v0.18.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
 	gopkg.in/yaml.v3 v3.0.1
 )
