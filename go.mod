@@ -8,10 +8,10 @@ require (
 	github.com/kairos-io/kairos v1.5.0
 	github.com/onsi/ginkgo/v2 v2.19.0
 	github.com/onsi/gomega v1.33.1
-	github.com/otiai10/copy v1.10.0
+	github.com/otiai10/copy v1.14.0
 	github.com/rs/zerolog v1.30.0
 	github.com/spectrocloud-labs/herd v0.4.2
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli v1.22.15
 	github.com/urfave/cli/v2 v2.27.2
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
 	golang.org/x/mod v0.17.0
@@ -51,6 +51,7 @@ require (
 	golang.org/x/crypto v0.23.0 // indirect
 	golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 // indirect
 	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/term v0.20.0 // indirect
 	golang.org/x/text v0.15.0 // indirect
