@@ -1,6 +1,8 @@
 module github.com/kairos-io/AuroraBoot
 
-go 1.19
+go 1.23.0
+
+toolchain go1.24.2
 
 require (
 	github.com/cavaliergopher/grab/v3 v3.0.1
@@ -11,11 +13,11 @@ require (
 	github.com/otiai10/copy v1.14.0
 	github.com/rs/zerolog v1.33.0
 	github.com/spectrocloud-labs/herd v0.4.2
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli v1.22.16
 	github.com/urfave/cli/v2 v2.27.2
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
-	golang.org/x/mod v0.18.0
-	gopkg.in/yaml.v3 v3.0.1
+	golang.org/x/mod v0.24.0
+	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
@@ -24,7 +26,7 @@ require (
 	atomicgo.dev/keyboard v0.2.9 // indirect
 	github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59 // indirect
 	github.com/containerd/console v1.0.3 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/go-task/slim-sprig/v3 v3.0.0 // indirect
