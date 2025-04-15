@@ -11,7 +11,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.19.0
 	github.com/onsi/gomega v1.33.1
 	github.com/otiai10/copy v1.14.1
-	github.com/rs/zerolog v1.33.0
+	github.com/rs/zerolog v1.34.0
 	github.com/spectrocloud-labs/herd v0.4.2
 	github.com/urfave/cli v1.22.16
 	github.com/urfave/cli/v3 v3.1.1
