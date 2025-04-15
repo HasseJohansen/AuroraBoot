@@ -14,7 +14,7 @@ require (
 	github.com/rs/zerolog v1.33.0
 	github.com/spectrocloud-labs/herd v0.4.2
 	github.com/urfave/cli v1.22.16
-	github.com/urfave/cli/v2 v2.27.2
+	github.com/urfave/cli/v2 v2.27.6
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
 	golang.org/x/mod v0.24.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
