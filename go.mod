@@ -1,6 +1,6 @@
 module github.com/kairos-io/AuroraBoot
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.25.2
 
@@ -16,7 +16,7 @@ require (
 	github.com/urfave/cli v1.22.17
 	github.com/urfave/cli/v3 v3.4.1
 	go.universe.tf/netboot v0.0.0-20240531232330-2ed7bd30206a
-	golang.org/x/mod v0.27.0
+	golang.org/x/mod v0.29.0
 	gopkg.in/yaml.v1 v1.0.0-20140924161607-9f9df34309c0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -54,14 +54,14 @@ require (
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	go.uber.org/automaxprocs v1.6.0 // indirect
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
-	golang.org/x/crypto v0.41.0 // indirect
+	golang.org/x/crypto v0.42.0 // indirect
 	golang.org/x/exp v0.0.0-20220909182711-5c715a9e8561 // indirect
-	golang.org/x/net v0.43.0 // indirect
-	golang.org/x/sync v0.16.0 // indirect
-	golang.org/x/sys v0.35.0 // indirect
-	golang.org/x/term v0.34.0 // indirect
-	golang.org/x/text v0.28.0 // indirect
-	golang.org/x/tools v0.36.0 // indirect
+	golang.org/x/net v0.44.0 // indirect
+	golang.org/x/sync v0.17.0 // indirect
+	golang.org/x/sys v0.36.0 // indirect
+	golang.org/x/term v0.35.0 // indirect
+	golang.org/x/text v0.29.0 // indirect
+	golang.org/x/tools v0.37.0 // indirect
 )
 
 replace go.universe.tf/netboot v0.0.0-20230916172012-64f6de6d0e3b => github.com/hassejohansen/netboot v1.21.2
