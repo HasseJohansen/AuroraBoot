@@ -2,7 +2,7 @@ module github.com/kairos-io/AuroraBoot
 
 go 1.24.0
 
-toolchain go1.25.2
+toolchain go1.25.5
 
 require (
 	github.com/cavaliergopher/grab/v3 v3.0.1
